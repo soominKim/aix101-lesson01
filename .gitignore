@@ -1,0 +1,4 @@
+.DS_Store
+# 원본(한글 파일명) — 웹 배포에는 screens/ 와 clean-named PDF만 사용
+image/
+AIX101_L01_실습.pdf
